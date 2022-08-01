@@ -1,5 +1,4 @@
 {
-
   "name": "simplefolio",
   "version": "1.0.1",
   "private": "true",
@@ -10,16 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Asier-D-Reveire/Portfolio"
+    "url": "git+https://github.com/Asier-D-Reveire/Portfolio"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
-  "license": "ISC",
+  "author": "Asier",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.2",
     "parcel": "^2.0.1",
     "prettier": "^2.4.1"
   },
-  
   "dependencies": {
     "@popperjs/core": "^2.10.2",
     "bootstrap": "^5.1.3",
